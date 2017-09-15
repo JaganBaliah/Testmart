@@ -20,4 +20,5 @@ public class ShopInfo {
 		else throw new InvalidInputException("Invalid Input", property + " is not a valid input");
 		return response;
 	}
+	
 }
